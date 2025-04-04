@@ -1,1 +1,11 @@
 app/backend/api/myenv
+
+# Ignore Firebase API key
+app/backend/core/serviceAccountKey.json
+
+# Ignore environment variables
+.env
+
+
+# Ignore Python virtual environment
+app/backend/venv
